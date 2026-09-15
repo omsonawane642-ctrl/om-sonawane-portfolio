@@ -1,0 +1,32 @@
+{
+  "name": "om-sonawane-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.15",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "three": "0.160.1",
+    "@react-three/fiber": "8.16.8",
+    "@react-three/drei": "9.109.2",
+    "framer-motion": "11.5.4"
+  },
+  "devDependencies": {
+    "typescript": "5.5.4",
+    "@types/node": "20.14.15",
+    "@types/react": "18.3.5",
+    "@types/react-dom": "18.3.0",
+    "@types/three": "0.160.0",
+    "autoprefixer": "10.4.20",
+    "postcss": "8.4.41",
+    "tailwindcss": "3.4.10",
+    "eslint": "8.57.0",
+    "eslint-config-next": "14.2.15"
+  }
+}
