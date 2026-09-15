@@ -2,41 +2,9 @@
 
 A premium, animated personal portfolio built with Next.js, TypeScript, Tailwind CSS, and an interactive Three.js globe.
 
----
+--
 
-## 1. Running the project (beginner steps)
-
-**STEP 1** — Download and extract the ZIP file.
-
-**STEP 2** — Open the extracted `portfolio` folder in VS Code.
-
-**STEP 3** — Open a terminal in VS Code (`Terminal` → `New Terminal`).
-
-**STEP 4** — Install dependencies:
-
-```
-npm install
-```
-
-**STEP 5** — Start the site:
-
-```
-npm run dev
-```
-
-**STEP 6** — Open your browser at:
-
-```
-http://localhost:3000
-```
-
-That's it. Every time you save a file, the browser updates automatically.
-
-To build a production version later, run `npm run build` then `npm run start`.
-
----
-
-## 2. Project structure
+## 1. Project structure
 
 ```
 src/
