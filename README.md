@@ -2,6 +2,7 @@
 
 A premium, animated personal portfolio built with Next.js, TypeScript, Tailwind CSS, and an interactive Three.js globe.
 
+https://om-sonawane-portfolio102.vercel.app/
 --
 
 ## 1. Project structure
